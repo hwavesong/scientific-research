@@ -2,10 +2,10 @@
 
 ## 1. High Frequency Words[2.2%] 
 ######  Guided [3/645=0.5%]
-1. Method/Idea <font color=Blue>Guided</font> Applications
-reference <font color=Blue>guided </font> face component editing
-feature statistics <font color=Blue>guided </font> efficient filter pruning
-exemplar <font color=Blue>guided</font> neural dialogue generation
+1. Method/Idea <font color=Blue>Guided</font> Applications  
+reference <font color=Blue>guided </font> face component editing  
+feature statistics <font color=Blue>guided </font> efficient filter pruning  
+exemplar <font color=Blue>guided</font> neural dialogue generation  
 
 ######  Based [9/645=1.4%]
 1. Applications <font color=Blue>Based on</font> Method
