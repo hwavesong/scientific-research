@@ -1,0 +1,12 @@
+a deep reinforcement learning approach to concurrent bilateral negotiation
+a multi-objective approach to mitigate negative side effects
+evaluating approval-based multiwinner voting in terms of robustness to noise
+a 3d convolutional approach to spectral object segmentation in space and time
+zero-shot object detection via learning an embedding from semantic space to visual space
+incorporating failure events in agents’ decision making to improve user satisfaction
+learning to complement humans
+rewriting the description logic alchiq to disjunctive existential rules
+a new attention mechanism to classify multivariate time series
+can cross entropy loss be robust to label noise?
+is the skip connection provable to reform the neural network loss landscape?
+harnessing code switching to transcend the linguistic barrier

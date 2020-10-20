@@ -1,0 +1,24 @@
+almost group envy-free allocation of indivisible goods and chores
+convexity of b-matching games
+the competitive effects of variance-based pricing
+characterizing similarity of visual stimulus from associated neuronal response
+collaborative learning of depth estimation, visual odometry and camera relocalization from monocular videos
+visual encoding and decoding of the human brain based on shared features
+fast and parallel decomposition of constraint satisfaction problems
+a fully rational account of structured argumentation under resource bounds
+a logic of directions
+controllability of control argumentation frameworks
+model-theoretic characterizations of existential rule languages
+pitfalls of learning a reward function online
+revisiting the notion of extension over incomplete abstract argumentation frameworks
+semantic width and the fixed-parameter tractability of constraint satisfaction problems
+the complexity landscape of resource-constrained scheduling
+human-driven fol explanations of deep learning
+neural representation and learning of hierarchical 2-additive choquet integrals
+optimality, accuracy, and eﬀiciency of an exact functional test
+towards a hierarchical bayesian model of multi-view anomaly detection
+gaussian embedding of linked documents from a pretrained semantic space
+generating reasonable legal text through the combination of language modeling and question answering
+guided generation of cause and effect
+hierarchical linear disentanglement of data-driven conceptual spaces
+unsupervised domain adaptation of a pretrained cross-lingual language model

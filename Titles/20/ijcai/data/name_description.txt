@@ -1,0 +1,91 @@
+peernomination: relaxing exactness for increased accuracy in peer selection
+wefe: the word embeddings fairness evaluation framework
+attan: attention adversarial networks for 3d point cloud semantic segmentation
+barnet: bilinear attention network with adaptive receptive fields for surgical instrument segmentation
+cp-nas: child-parent neural architecture search for 1-bit cnns
+dam: deliberation, abandon and memory networks for generating detailed and non-repetitive responses in visual dialogue
+didfuse: deep image decomposition for infrared and visible image fusion
+e3sn: efficient end-to-end siamese network for video object segmentation
+evilbert: learning task-agnostic multimodal sense embeddings
+g2rl: geometry-guided representation learning for facial action unit intensity estimation
+gesturedet: real-time student gesture analysis with multi-dimensional attention-based detector
+gsm: graph similarity model for multi-object tracking
+haf-svg: hierarchical stochastic video generation with aligned features
+k-sdpp: fixed-size video summarization via sequential determinantal point processes
+mucko: multi-layer cross-modal knowledge reasoning for fact-based visual question answering
+sbat: video captioning with sparse boundary-aware transformer
+sceneencoder: scene-aware semantic segmentation of point clouds with a learnable scene descriptor
+selectscale: mining more patterns from images via selective and soft dropout
+simpropnet: improved similarity propagation for few-shot image segmentation
+textfusenet: scene text detection with richer fused features
+tlpg-tracker: joint learning of target localization and proposal generation for visual tracking
+trp: trained rank pruning for efficient deep neural networks
+nlocalsat: boosting local search with solution prediction
+banana: when behavior analysis meets social network alignment
+gognn: graph of graphs neural network for predicting structured entity interactions
+graphflow: exploiting conversation flow with graph neural networks for conversational machine comprehension
+graphsleepnet: adaptive spatial-temporal graph convolutional networks for sleep stage classification
+jane: jointly adversarial network embedding
+mr-gcn: multi-relational graph convolutional networks based on generalized tensor product
+nucds: an efficient local search algorithm for minimum connected dominating set
+lisnn: improving spiking neural networks with lateral interactions for robust object recognition
+neurasp: embracing neural networks into answer set programming
+adabert: task-adaptive bert compression with differentiable neural architecture search
+argot: generating adversarial readable chinese texts
+baker-nets: bayesian random kernel mapping networks
+bert-int:a bert-based interaction model for knowledge graph alignment
+brpo: batch residual policy optimization
+cdimc-net: cognitive deep incomplete multi-view clustering network
+clarinet: a one-step approach towards  budget-friendly unsupervised domain adaptation
+dace: distribution-aware counterfactual explanation by mixed-integer linear optimization
+deepview: visualizing classification boundaries of deep neural networks as scatter plots using discriminative dimensionality reduction
+dropnas: grouped operation dropout for differentiable architecture search
+endcold: an end-to-end framework for cold question routing in community question answering services
+fnnc: achieving fairness through neural networks
+i²hrl: interactive influence-based hierarchical reinforcement learning
+i4r: promoting deep reinforcement learning by the indicator for expressive representations
+intention2basket: a neural intention-driven approach for dynamic next-basket planning
+ir-vic: unsupervised discovery of sub-goals for transfer in rl
+kgnn: knowledge graph neural network for drug-drug interaction prediction
+kogun: accelerating deep reinforcement learning via integrating human suboptimal knowledge
+lsgcn: long short-term traffic prediction with graph convolutional networks
+macar: urban traffic light control via active multi-agent communication and action rectification
+marthe: scheduling the learning rate via online hypergradients
+mergenas: merge operations into one for differentiable architecture search
+multipolar: multi-source policy aggregation for transfer reinforcement learning between diverse environmental dynamics
+p-kdgan: progressive knowledge distillation with gans for one-class novelty detection
+pbsgd: powered stochastic gradient descent methods for accelerated non-convex optimization
+seq-u-net: a one-dimensional causal u-net for efficient sequence modelling
+si-vdnas: semi-implicit variational dropout for hierarchical one-shot neural architecture search
+transrhs: a representation learning method for knowledge graphs with relation hierarchical structure
+triple-gail: a multi-modal imitation learning framework with generative adversarial nets
+c3mm: clique-closure based hyperlink prediction
+cdc: classification driven compression for bandwidth efficient edge-cloud collaborative deep learning
+deepweave: accelerating job completion time with deep reinforcement learning-based coflow scheduling
+hid: hierarchical multiscale representation learning for information diffusion
+bert-pli: modeling paragraph-level interactions for legal case retrieval
+cooba: cross-project bug localization via adversarial transfer learning
+fakespotter: a simple yet robust baseline for spotting ai-synthesized fake faces
+hypernews: simultaneous news recommendation and active-time prediction via a double-task deep neural network
+mls3rduh: deep unsupervised hashing via manifold based local semantic similarity structure reconstructing
+cosda-ml: multi-lingual code-switching data augmentation  for zero-shot cross-lingual nlp
+emoelicitor: an open domain response generation model with user emotional reaction awareness
+ernie-gen: an enhanced multi-flow pre-training and fine-tuning framework for natural language generation
+hype-han: hyperbolic hierarchical attention network for semantic embedding
+logiqa: a challenge dataset for machine reading comprehension with logical reasoning
+mulan: multilingual label propagation for word sense disambiguation
+recparser: a recursive semantic parsing framework for text-to-sql task
+topicka: generating commonsense knowledge-aware dialogue responses towards the recommended topic fact
+transomcs: from linguistic graphs to commonsense knowledge
+dualsmc: tunneling differentiable filtering and planning under continuous pomdps
+crowd-steer: realtime smooth and collision-free robot navigation in densely crowded scenarios trained using high-fidelity simulation
+pewlstm: periodic lstm with weather-aware gating mechanism for parking behavior prediction
+bitcoinheist: topological data analysis for ransomware prediction on the bitcoin blockchain
+sebf: a single-chain based extension model of blockchain for fintech
+maps: multi-agent reinforcement learning-based portfolio management system.
+rm-cvar: regularized multiple β-cvar portfolio
+f-hmtc: detecting financial events for investment decisions based on neural hierarchical multi-label text classification
+finbert: a pre-trained financial language representation model for financial text mining
+ignite: a minimax game toward learning individual treatment effects from networked observational data
+infochain: a decentralized, trustless and transparent oracle on blockchain
+wattnet: learning to trade fx via hierarchical spatio-temporal representation of highly multivariate time series

@@ -1,0 +1,195 @@
+an algorithm for multi-attribute diverse matching
+assume-guarantee synthesis for prompt linear temporal logic
+dinkelbach-type algorithm for computing quantal stackelberg equilibrium
+efficient algorithms for learning revenue-maximizing two-part tariffs
+fine-grained view on bribery for group identification
+learning optimal temperature region for solving mixed integer functional dcops
+monte-carlo tree search for scalable coalition formation
+on the complexity of winner verification and candidate winner for multiwinner voting rules
+prophet inequalities for bayesian persuasion
+selecting voting locations for fun and profit
+social ranking manipulability for the cp-majority, banzhaf and lexicographic excellence solutions
+tight approximation for proportional approval voting
+achieving outcome fairness in machine learning models for social decision problems
+relation-based counterfactual explanations for bayesian network classifiers
+a graph-based interactive reasoning for human-object interaction detection
+a similarity inference metric for rgb-infrared cross-modality person re-identification
+action-guided attention mining and relation reasoning network for human-object interaction detection
+bi-level probabilistic feature learning for  deformable image registration
+biased feature learning for occlusion invariant face recognition
+bidirectional adversarial training for semi-supervised domain adaptation
+channel-level variable quantization network for deep image compression
+co-saliency spatio-temporal interaction network for person re-identification in videos
+consistent domain structure learning and domain alignment for 2d image-based 3d objects retrieval
+deep polarized network for supervised learning of accurate binary hashing codes
+disentangled feature learning network for vehicle re-identification
+exploiting visual semantic reasoning for video-text retrieval
+feature augmented memory with global attention network for videoqa
+hierarchical attention based spatial-temporal graph-to-sequence learning for grounded video description
+hierarchical instance feature alignment for 2d image-based 3d shape retrieval
+label-attended hashing for multi-label image retrieval
+latent regularized generative dual adversarial network for abnormal detection
+learning task-aware local representations for few-shot learning
+learning to discretely compose reasoning module networks for video captioning
+meta segmentation network for ultra-resolution medical images
+multi-attention meta learning for few-shot fine-grained image recognition
+multi-graph fusion for functional neuroimaging biomarker detection
+multi-scale spatial-temporal integration convolutional tube for human action recognition
+object-aware multi-branch relation networks for spatio-temporal video grounding
+overcoming language priors with self-supervised learning for visual question answering
+polar relative positional encoding for video-language segmentation
+progressive domain-independent feature decomposition network for zero-shot sketch-based image retrieval
+recurrent relational memory network for unsupervised image captioning
+self-supervised gait encoding with locality-aware attention for person re-identification
+self-supervised tuning for few-shot segmentation
+semi-dynamic hypergraph neural network for 3d pose estimation
+temporal adaptive alignment network for deep video inpainting
+transductive relation-propagation network for few-shot learning
+weakly supervised local-global relation network for facial expression recognition
+automatic dominance breaking for a class of constraint optimization problems
+early and efficient identification of useless constraint propagation for alldifferent constraints
+extended conjunctive normal form and an efficient algorithm for cardinality constraints
+a spatial missing value imputation method for multi-view urban statistical data
+discrete embedding for latent networks
+evidence-aware hierarchical interactive attention networks for explainable claim verification
+inductive link prediction for nodes having only attribute information
+joint representation learning of legislator and legislation for roll call prediction
+proximal gradient algorithm with momentum and flexible parameter restart for nonconvex optimization
+recovering accurate labeling information from  partially valid data for effective multi-label learning
+robustness of autoencoders for anomaly detection under adversarial impact
+simultaneous arrival matching for new spatial crowdsourcing platforms
+exploration based language learning for text-based games
+two-goal local search and inference rules for minimum dominating set
+unsatisfiability proofs for weight 16 codewords in lams problem
+vertex weighting-based tabu search for p-center problem
+learning regional attention convolutional neural network for motion intention recognition based on eeg data
+a dataset complexity measure for analogical transfer
+a framework for reasoning about  dynamic axioms in description logics
+a modal logic for joint abilities under strategy commitments
+adversarial oracular seq2seq learning for sequential recommendation
+all-instances oblivious chase termination is undecidable for single-head binary tgds
+deductive module extraction for expressive description logics
+deep learning for abstract argumentation semantics
+inconsistency measurement for improving logical formula clustering
+lower bounds and faster algorithms for equality constraints
+lower bounds for approximate knowledge compilation
+model-based synthesis of incremental and correct estimators for discrete event systems
+provenance for the description logic elhr
+a dual input-aware factorization machine for ctr prediction
+a graphical and attentional framework for dual-target cross-domain recommendation
+adaptively multi-objective adversarial training for dialogue generation
+an online learning framework for energy-efficient navigation of electric vehicles
+analysis of q-learning with adaptation and momentum restart for gradient descent
+asymmetric distribution measure for few-shot learning
+batch decorrelation for active metric learning
+bayesian decision process for budget-efficient crowdsourced clustering
+collaboration based multi-label propagation for fraud detection
+collaborative self-attention network for session-based recommendation
+coloring graph neural networks for node disambiguation
+constrained policy improvement for efficient reinforcement learning
+convolutional neural networks with compression complexity pooling for out-of-distribution image detection
+deep feedback network for recommendation
+deep latent low-rank fusion network for progressive subspace discovery
+direct quantization for training highly accurate low bit-width deep neural networks
+discovering latent class labels for multi-label learning
+discovering subsequence patterns for next poi recommendation
+effective search of logical forms for weakly supervised knowledge-based question answering
+exploring parameter space with structured noise for meta-reinforcement learning
+fairness-aware neural rényi minimization for continuous features
+fully nested neural network for adaptive compression and quantization
+gradient perturbation is underrated for differentially private convex optimization
+hypothesis sketching for online kernel selection in continuous kernel space
+independent skill transfer for deep reinforcement learning
+inference-masked loss for deep structured output learning
+intent preference decoupling for user representation on online recommender system
+internal and contextual attention network for cold-start multi-channel matching in recommendation
+interpretable models for understanding immersive simulations
+joint multi-view 2d convolutional neural networks for 3d object classification
+joint partial optimal transport for open set domain adaptation
+learning personalized itemset mapping for cross-domain recommendation
+learning with labeled and unlabeled multi-step transition data for recovering markov chain from incomplete transition data
+logic constrained pointer networks for interpretable textual similarity
+memory augmented neural model for incremental session-based recommendation
+metric learning in optimal transport for domain adaptation
+multi-scale group transformer for long sequence modeling in speech separation
+multi-view attribute graph convolution networks for clustering
+neighbor combinatorial attention for critical structure mining
+neural tensor model for learning multi-aspect factors in recommender systems
+optimal margin distribution machine for multi-instance learning
+order-dependent event models for agent interactions
+potential driven reinforcement learning for hard exploration tasks
+quadratic sparse gaussian graphical model estimation method for massive variables
+randomised gaussian process upper confidence bound for bayesian optimisation
+recurrent dirichlet belief networks for interpretable dynamic relational data modelling
+reinforcement learning framework for deep brain stimulation study
+self-attentional credit assignment for transfer in reinforcement learning
+tensor-based multi-view label enhancement for multi-label learning
+the sparse minmax k-means algorithm for high-dimensional clustering
+tight convergence rate of gradient descent for eigenvalue computation
+unsupervised domain adaptation with dual-scheme fusion network for medical image segmentation
+user modeling with click preference and reading satisfaction for news recommendation
+a label attention model for icd coding from clinical text
+adversarial mutual information learning for network embedding
+semi-markov reinforcement learning for stochastic resource collection
+a game theoretic approach for core resilience
+a two-stage matheuristic algorithm for classical inventory routing problem
+community-centric graph convolutional network for unsupervised community detection
+differential privacy for stackelberg games
+exploiting mutual information for substructure-aware graph representation learning
+learning the compositional visual coherence for complementary recommendations
+learning to accelerate heuristic searching for large-scale maximum weighted b-matching problems in online advertising
+optimal policy for deployment of machine learning models on energy-bounded systems
+the graph-based mutual attentive network for automatic diagnosis
+a de novo divide-and-merge paradigm for acoustic model optimization in automatic speech recognition
+a relation-specific attention network for joint entity and relation extraction
+a structured latent variable recurrent network with stochastic attention for generating weibo comments
+an iterative multi-source mutual knowledge transfer framework for machine reading comprehension
+attention-based multi-level feature fusion for named entity recognition
+domain adaptation for semantic parsing
+exploring bilingual parallel corpora for syntactically controllable paraphrase generation
+formal query building with query structure prediction for complex question answering over knowledge base
+gated pos-level language model for authorship verification
+generalized zero-shot text classification for icd coding
+global structure and local semantics-preserved embeddings for entity alignment
+hierarchical matching network for heterogeneous entity resolution
+hierarchical multi-task learning for organization evaluation of argumentative student essays
+joint time-frequency and time domain learning for speech enhancement
+learning latent forests for medical relation extraction
+leveraging document-level label consistency for named entity recognition
+modeling dense cross-modal interactions for joint entity-relation extraction
+modeling topical relevance for multi-turn dialogue generation
+modeling voting for system combination in machine translation
+robust front-end for multi-channel asr using flow-based density estimation
+task-level curriculum learning for non-autoregressive neural machine translation
+teacher-student networks with multiple decoders for solving math word problem
+towards fully 8-bit integer inference for the transformer model
+two-phase hypergraph based reasoning with dynamic relations for multi-hop kbqa
+a unified model for the two-stage offline-then-online resource allocation
+cost-partitioned merge-and-shrink heuristics for optimal classical planning
+delete- and ordering-relaxation heuristics for htn planning
+front-to-front heuristic search for satisficing classical planning
+online revenue maximization for server pricing
+trade the system efficiency for the income equality of drivers in rideshare
+trading plan cost for timeliness in situated temporal planning
+verifiable rnn-based policies for pomdps under temporal logic constraints
+a complete characterization of projectivity for statistical relational models
+adversarial graph embeddings for fair influence maximization over social networks
+optimal and non-discriminative rehabilitation program design for opioid addiction among homeless youth
+cross-interaction hierarchical attention networks for urban anomaly prediction
+multi-view joint graph representation learning for urban region embedding
+an exact single-agent task selection algorithm for the crowdsourced logistics
+embedding conjugate gradient in learning random walks for landscape connectivity modeling in conservation
+discrete biorthogonal wavelet transform based convolutional neural network for atrial fibrillation diagnosis from electrocardiogram
+federated meta-learning for fraudulent credit card detection
+deep semantic compliance advisor for  unstructured document  compliance checking
+a two-level reinforcement learning algorithm for ambiguous mean-variance portfolio selection problem
+modeling the stock relation with graph network for overnight stock movement prediction
+vector autoregressive weighting reversion strategy for online portfolio selection
+a quantum-inspired entropic kernel for multiple financial time series analysis
+a unified model for financial event classification, detection and summarization
+hierarchical multi-scale gaussian transformer for stock movement prediction
+interpretable multimodal learning for intelligent regulation in online payment systems
+multi-scale two-way deep neural network for stock trend prediction
+relation-aware transformer for portfolio policy learning
+risk-averse trust region optimization for reward-volatility reduction
+two-stage behavior cloning for spoken dialogue system in debt collection

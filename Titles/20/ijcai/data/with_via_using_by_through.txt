@@ -1,0 +1,122 @@
+budgeted facility location games with strategic facilities
+computational aspects of conditional minisum approval voting in elections with interdependent issues
+decentralized mcts via learned teammate models
+maximizing welfare with incentive-aware evaluation mechanisms
+modelling bounded rationality in multi-agent interactions by generalized recursive reasoning
+participatory budgeting with project interactions
+proportionality in approval-based elections with a variable number of winners
+stable roommate problem with diversity preferences
+synthesis of deceptive strategies in reachability games with action misperception
+the complexity of election problems with group-separable preferences
+channel pruning via automatic structure search
+cross-denoising network against corrupted labels in medical image segmentation with domain shift
+detecting adversarial attacks via subset scanning of autoencoder activations and reconstruction error
+few-shot human motion prediction via learning novel motion dynamics
+few-shot visual learning with contextual memory and fine-grained calibration
+generating person images with appearance-aware pose stylizer
+jpeg artifacts removal via compression quality ranker-guided networks
+large scale audiovisual learning of sounds with weakly labeled data
+multichannel color image denoising via weighted schatten p-norm minimization
+non-autoregressive image captioning with counterfactuals-critical multi-agent learning
+real-world automatic makeup via identity preservation makeup net
+self-supervised monocular depth and visual odometry learning with scale-consistent geometric constraints
+spatiotemporal super-resolution with cross-task consistency and its semi-supervised extension
+super-resolution and inpainting with degraded and upgraded generative adversarial networks
+unsupervised scene adaptation with memory regularization in vivo
+unsupervised vehicle re-identification with progressive adaptation
+weakly supervised few-shot object segmentation using co-attention with visual and semantic embeddings
+learning optimal decision trees with maxsat and its integration in adaboost
+learning sensitivity of rcpsp by analyzing the search process
+bilinear graph neural network with neighbor interactions
+enhancing urban flow maps via neural odes
+entity synonym discovery via multipiece bilateral context matching
+improving attention mechanism in graph neural networks via cardinality preservation
+online semi-supervised multi-label classification with label compression and local smooth regression
+optimal region search with submodular maximization
+rebalancing expanding ev sharing systems with deep reinforcement learning
+rumor detection on social media with graph structured adversarial learning
+speeding up very fast decision tree with low computational cost
+understanding the success of graph-based semi-supervised learning using partially labelled stochastic block model
+self-guided evolution strategies with historical estimated gradients
+aggregating crowd wisdom with side information via a clustering-based label-aware autoencoder
+improving knowledge tracing via pre-training question embeddings
+automatic synthesis of generalized winning strategies of impartial combinatorial games using smt solvers
+diagnosing software faults using multiverse analysis
+enriching documents with compact, representative, relevant knowledge graphs
+implementing theory of mind on a robot using dynamic epistemic logic
+neural entity summarization with joint encoding and weak supervision
+tractable fragments of datalog with metric temporal operators
+accelerating stratified sampling sgd by reconstructing strata
+arbitrary talking face generation via attentional audio-visual coherence learning
+bayesian optimization using pseudo-points
+combinatorial multi-armed bandits with concave rewards and fairness constraints
+crowdsourcing with multiple-source knowledge transfer
+decorrelated clustering with data selection bias
+discriminative feature selection via a structured sparse subspace learning module
+efficient deep reinforcement learning via adaptive policy transfer
+explainable inference on sequential data via memory-tracking
+explainable recommendation via interpretable feature mapping and evaluation of explainability
+general purpose mrf learning with neural network potentials
+generating robust audio adversarial examples with temporal dependency
+handling black swan events in deep learning with diversely extrapolated neural networks
+learning in the wild with incremental skeptical gaussian processes
+learning interpretable representations with informative entanglements
+learning large logic programs by going beyond entailment
+multi-feedback bandit learning with probabilistic contexts
+multi-label feature selection via global relevance and redundancy optimization
+multivariate probability calibration with isotonic bernstein polynomials
+mutual information estimation using lsh sampling
+on metric dbscan with low doubling dimension
+one-shot neural architecture search via novelty driven sampling
+partial multi-label learning via multi-subspace representation
+positive unlabeled learning with class-prior approximation
+privileged label enhancement with multi-label learning
+rdf-to-text generation with graph-augmented structural neural encoders
+reducing underflow in mixed precision training by gradient scaling
+reinforcement learning with dynamic boltzmann softmax updates
+self-paced consensus clustering with bipartite graph
+semi-supervised clustering via pairwise constrained optimal graph
+smart contract vulnerability detection using graph neural network
+solving hard ai planning instances using curriculum-driven deep reinforcement learning
+stochastic batch augmentation with an effective distilled dynamic soft label regularizer
+temporal attribute prediction via joint modeling of multi-relational structure evolution
+trajectory similarity learning with auxiliary supervision and optimal matching
+understanding the power and limitations of teaching with imperfect knowledge
+unsupervised representation learning by predicting random distances
+variational learning of bayesian neural networks via bayesian dark knowledge
+binary classification from positive data with skewed confidence
+generating behavior-diverse game ais with evolutionary multi-objective deep reinforcement learning
+predicting landslides using locally aligned convolutional neural networks
+automatic emergency diagnosis with knowledge-based tree decoding
+learning data-driven drug-target-disease interaction via neural tensor network
+learning model with error -- exposing the hidden model of bayhenn
+alleviate dataset shift problem in fine-grained entity typing with virtual adversarial training
+better amr-to-text generation with graph structure reconstruction
+dialogue state induction using neural latent variable models
+efficient context-aware neural machine translation with layer-wise weighting and input-aware gating
+enhancing dialog coherence with event graph grounded content planning
+evaluating natural language generation via unbalanced optimal transport
+infobox-to-text generation with tree-like planning based attention network
+knowledge enhanced event causality identification with mention masking generalizations
+lexical-constraint-aware neural machine translation via data augmentation
+multi-hop reading comprehension across documents with path-based graph convolutional network
+neural abstractive summarization with structural attention
+neural machine translation with error correction
+text style transfer via learning style instance supported latent space
+triple-to-text generation with an anchor-to-prototype framework
+unsupervised multilingual alignment using wasserstein barycenter
+multi-robot adversarial patrolling strategies via lattice paths
+optimising partial-order plans via action reinstantiation
+robustness computation of dynamic controllability in probabilistic temporal networks with ordinary distributions
+sparse tree search optimality guarantees in pomdps with continuous observation spaces
+euclidean pathfinding with compressed path databases
+improving tandem mass spectra analysis with hierarchical learning
+forecasting avian migration patterns  using a deep bidirectional rnn  augmented with an auxiliary task
+disentangled variational autoencoder based multi-label classification with covariance-aware multivariate probit model
+generating interpretable poverty maps using object detection in satellite images
+data-driven market-making via model-free learning
+online portfolio selection with cardinality constraint and transaction costs based on contextual bandit
+financial risk prediction with multi-round q&a attention network
+robust market making via adversarial reinforcement learning
+task-based learning via task-oriented prediction network with applications in finance
+answer generation through unified memories over multiple passages

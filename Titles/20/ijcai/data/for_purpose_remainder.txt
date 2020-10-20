@@ -1,0 +1,20 @@
+structured probabilistic end-to-end learning from crowds
+belief merging operators as maximum likelihood estimators
+counting query answers over a dl-lite kb
+synthesizing strategies under expected and exceptional environment behaviors
+communicative representation learning on attributed molecular graphs
+contextualized point-of-interest recommendation
+non-monotone dr-submodular maximization over general convex sets
+self-adaptive re-weighted adversarial domain adaptation
+stabilizing adversarial invariance induction from divergence minimization perspective
+switching poisson gamma dynamical systems
+synthesizing aspect-driven recommendation explanations from reviews
+unsupervised monocular visual-inertial odometry network
+weakly-supervised multi-view multi-instance multi-label learning
+inferring degrees from incomplete networks and nonlinear dynamics
+fast and accurate neural crf constituency parsing
+transformers as soft reasoners over language
+optimal planning modulo theories
+efficient and robust high-dimensional linear contextual bandits
+lifted hybrid variational inference
+scaling up and/or abstraction sampling

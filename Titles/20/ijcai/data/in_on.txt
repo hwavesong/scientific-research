@@ -1,0 +1,43 @@
+altruism in coalition formation games
+combining direct trust and indirect trust in multi-agent systems
+formalizing group and propagated trust in multi-agent systems
+partial adversarial behavior deception in security games
+peer-prediction in the presence of outcome dependent lying incentives
+strategic campaign management in apportionment elections
+verifying fault-tolerance in probabilistic swarm systems
+metamorphic testing and certified mitigation of fairness violations in nlp models
+diagnosing the environment bias in vision-and-language navigation
+dynamic language binding in relational visual reasoning
+on irrelevant literals in pseudo-boolean constraint learning
+cause-effect association between event pairs in event datasets
+opinion maximization in social trust networks
+intelligent virtual machine provisioning in cloud computing
+optimal complex task assignment in service crowdsourcing
+concurrent games in dynamic epistemic logic
+controlled query evaluation in description logics through instance indistinguishability
+on computational aspects of iterated belief change
+on robustness in qualitative constraint networks
+on the decidability of intuitionistic tense logic without disjunction
+on the learnability of possibilistic theories
+switch-list representations in a knowledge compilation map
+balancing individual preferences and shared objectives in  multiagent reinforcement learning
+best arm identification in spectral bandits
+class prior estimation in active positive and unlabeled learning
+closing the generalization gap of adaptive gradient methods in training deep neural networks
+complete bottom-up predicate invention in meta-interpretive learning
+disentangling direct and indirect interactions in polytomous item response theory models
+exploiting neuron and synapse filter dynamics in spatial temporal learning of deep spiking neural network
+generalized mean estimation in monte-carlo tree search
+knowledge-based regularization in generative modeling
+learning interpretable models in the property specification language
+on deep unsupervised active learning
+reward prediction error as an exploration objective in deep rl
+the importance of the test set size in quantification assessment
+modeling perception errors towards robust decision making in autonomous vehicles
+how far are we from effective context modeling? an exploratory study on semantic parsing in context
+on the importance of word and sentence representation learning in implicit discourse relation classification
+towards making the most of context in neural machine translation
+decidability results in first-order epistemic planning
+steady-state policy synthesis in multichain markov decision processes
+state variable effects in graphical event models
+risk guarantee prediction in networked-loans

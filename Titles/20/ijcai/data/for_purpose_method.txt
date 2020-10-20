@@ -1,0 +1,21 @@
+mechanism design for school choice with soft diversity constraints
+speeding up incomplete gdl-based algorithms for multi-agent optimization with dense local utilities
+strategyproof mechanism for two heterogeneous facilities with constant approximation ratio
+deep interleaved network for single image super-resolution with asymmetric co-attention
+a sequential convolution network for population flow prediction with explicitly correlation modelling
+cone semantics for logics with negation
+query answering for existential rules via efficient datalog rewriting
+ranking semantics for argumentation systems with necessities
+a bi-level formulation for label noise learning with spectral cluster discovery
+compressed self-attention for deep metric learning with low-rank approximation
+hybrid learning for multi-agent cooperation with sub-optimal demonstrations
+label distribution for learning with noisy labels
+label enhancement for label distribution learning via prior knowledge
+nearly optimal regret for stochastic linear bandits with heavy-tailed payoffs
+svrg for policy evaluation with fewer gradient evaluations
+an attention-based model for conversion rate prediction with delayed feedback via post-click calibration
+an interactive multi-task learning framework for next poi recommendation with uncertain check-ins
+boundary extension features for width-based planning with simulators on continuous-state domains
+robust policy synthesis for uncertain pomdps via convex optimization
+bridging cross-tasks gap for cognitive assessment via fine-grained domain adaptation
+financial risk analysis for smes with graph-based supply chain mining

@@ -1,0 +1,67 @@
+a penny for your thoughts: the value of communication in ad hoc teamwork
+approximate pareto set for fair and efficient allocation: few agent types or few resource types
+biased opinion dynamics: when the devil is in the details
+competition among contests: a safety level analysis
+concentration of distortion: the value of extra voters in randomized social choice
+ethics, prosperity, and society: moral evaluation using virtue ethics and utilitarianism
+evaluating committees for representative democracies: the distortion and beyond
+fair division of time: multi-layered cake cutting
+keeping your friends close: land allocation with friends
+logics of allies and enemies: a formal approach to the dynamics of social balance theory
+model-free real-time autonomous energy management for a residential multi-carrier energy system: a deep reinforcement learning approach
+stable matchings with diversity constraints: affirmative action is beyond np
+when to follow the tip: security games with strategic informants
+individual fairness revisited: transferring techniques from adversarial robustness
+bottom-up and top-down: bidirectional additive net for edge detection
+dress like an internet celebrity: fashion retrieval in videos
+learning from the scene and borrowing from the rich: tackling the long tail in scene graph generation
+overflow aware quantization: accelerating neural network inference by low-bit multiply-accumulate operations
+pay attention to devils: a photometric stereo network for better details
+position-aware recalibration module: learning from feature semantics and feature position
+set and rebase: determining the semantic graph connectivity for unsupervised cross-modal hashing
+when pedestrian detection meets nighttime surveillance: a new benchmark
+bipartite encoding: a new binary encoding for solving non-binary csps
+diversity of solutions: an exploration through the lens of fixed-parameter tractability theory
+subgraph isomorphism meets cutting planes: solving with certified solutions
+on the enumeration of association rules: a decomposition-based approach
+when do gnns work: understanding and improving neighborhood aggregation
+performance as a constraint: an improved wisdom of crowds using performance regularization
+a journey into ontology approximation: from non-horn to horn
+boolean games: inferring agents goals using taxation queries
+maximizing the spread of an opinion in few steps: opinion diffusion in non-binary networks
+overcoming the grounding bottleneck due to constraints in asp solving: constraints become propagators
+reasoning like human: hierarchical reinforcement learning for knowledge graph reasoning
+beyond network pruning: a joint search-and-training approach
+classification with rejection: scaling generative classifiers with supervised deep infomax
+consistent metareg: alleviating intra-task discrepancy for better meta-knowledge
+knowledge hypergraphs: prediction beyond binary relations
+learning from few positives: a provably accurate metric learning algorithm to deal with imbalanced data
+learning neural-symbolic descriptive planning models via cube-space priors: the voyage home (to strips)
+learning with subquadratic regularization : a primal-dual approach
+location prediction over sparse user mobility traces using rnns: flashback in hidden states!
+measuring the discrepancy between conditional distributions: methods, properties and applications
+only relevant information matters: filtering out noisy samples to boost rl
+spectral pruning: compressing deep neural networks via spectral analysis and its generalization error
+split to be slim: an overlooked redundancy in vanilla convolution
+inverse reinforcement learning for team sports: valuing actions and players
+efficient community search over large directed graph: an augmented index-based approach
+towards alleviating traffic congestion: optimal route planning for massive-scale trips
+why we go where we go: profiling user decisions on choosing pois
+asking effective and diverse questions: a machine reading comprehension based framework for joint entity-relation extraction
+attention as relation: learning supervised multi-head self-attention for relation extraction
+learning with noise: improving distantly-supervised fine-grained entity typing via automatic relabeling
+retrieve, program, repeat: complex knowledge base question answering via alternate meta-learning
+unitrans : unifying model transfer and data transfer for cross-lingual named entity recognition with unlabeled data
+plan-space explanation via plan-property dependencies: faster algorithms & more powerful properties
+approximate weighted first-order model counting: exploiting fast approximate model counters and symmetry
+learning bayesian networks under sparsity constraints: a parameterized complexity analysis
+real-time dispatching of large-scale ride-sharing systems: integrating optimization, machine learning, and model predictive control
+who am i?: towards social self-awareness  for intelligent agents
+a novel spatio-temporal multi-task approach for the prediction of diabetes-related complication: a cardiopathy case of study
+deep hurdle networks for zero-inflated multi-target regression: application to multiple species abundance estimation
+the behavioral sign of account theft: realizing online payment fraud alert
+market manipulation: an adversarial learning framework for detection and evasion
+phishing scam detection on ethereum: towards financial security for blockchain ecosystem
+financial thought experiment: a gan-based approach to vast robust portfolio selection
+``the squawk bot: joint learning of time series and text data modalities for automated financial information filtering
+fighting wildfires under uncertainty - a sequential resource allocation approach
