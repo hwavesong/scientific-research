@@ -1,5 +1,6 @@
 # Classified IJCAI2020 Paper Titles
- 
+
+## 1. High Frequency Words[2.2%] 
 ######  Guided [3/645=0.5%]
 1. Method/Idea <font color=Blue>Guided</font> Applications
 reference <font color=Blue>guided </font> face component editing
